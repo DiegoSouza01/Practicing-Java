@@ -1,6 +1,4 @@
 public class CheckingIfNumberIsEvenOrOdd {
-
-    class ParOuImpar {
         public static void main(String[] args) {
             int valor = 7;
             if (valor % 2 == 0) {
@@ -9,5 +7,4 @@ public class CheckingIfNumberIsEvenOrOdd {
                 System.out.println("O número " + valor + " é ímpar.");
             }
         }
-    }
 }
