@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/IfAndElseConditionals/IfAndElseConditionals.iml" filepath="$PROJECT_DIR$/IfAndElseConditionals/IfAndElseConditionals.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Praticando Java variáveis e tipos.iml" filepath="$PROJECT_DIR$/.idea/Praticando Java variáveis e tipos.iml" />
-      <module fileurl="file://$PROJECT_DIR$/VariaveisETipos/VariaveisETipos.iml" filepath="$PROJECT_DIR$/VariaveisETipos/VariaveisETipos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VariablesAndTypes/VariablesAndTypes.iml" filepath="$PROJECT_DIR$/VariablesAndTypes/VariablesAndTypes.iml" />
     </modules>
   </component>
 </project>
