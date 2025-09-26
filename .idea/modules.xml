@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/IfAndElseConditionals/IfAndElseConditionals.iml" filepath="$PROJECT_DIR$/IfAndElseConditionals/IfAndElseConditionals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LoopsForAndWhile/LoopsForAndWhile.iml" filepath="$PROJECT_DIR$/LoopsForAndWhile/LoopsForAndWhile.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Praticando Java variáveis e tipos.iml" filepath="$PROJECT_DIR$/.idea/Praticando Java variáveis e tipos.iml" />
       <module fileurl="file://$PROJECT_DIR$/VariablesAndTypes/VariablesAndTypes.iml" filepath="$PROJECT_DIR$/VariablesAndTypes/VariablesAndTypes.iml" />
     </modules>
