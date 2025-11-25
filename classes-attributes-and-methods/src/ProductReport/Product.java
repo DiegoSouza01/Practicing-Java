@@ -2,13 +2,13 @@ package ProductReport;
 
 import java.util.Locale;
 
-public class Produto {
+public class Product {
 
     private String nome;
     private double preco;
     private int quantidade;
 
-    public Produto(String nome, double preco, int quantidade) {
+    public Product(String nome, double preco, int quantidade) {
         this.nome = nome;
         this.preco = preco;
         this.quantidade = quantidade;
@@ -17,7 +17,7 @@ public class Produto {
     public void mostrarDadosFormatados() {
         String precoFormatado = String.format(Locale.getDefault(), "%.2f", this.preco);
 
-        System.out.println("Produto: " + this.nome);
+        System.out.println("Product: " + this.nome);
         System.out.println("Preço: R$ " + precoFormatado);
         System.out.println("Quantidade em estoque: " + this.quantidade);
     }

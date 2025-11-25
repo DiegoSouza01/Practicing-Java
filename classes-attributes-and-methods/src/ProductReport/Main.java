@@ -7,14 +7,14 @@ public class Main {
         double preco = 159.9;
         int quantidade = 25;
 
-        Produto mouseGamer = new Produto(nome, preco, quantidade);
+        Product mouseGamer = new Product(nome, preco, quantidade);
 
         System.out.println("Relatório de Estoque");
 
         mouseGamer.mostrarDadosFormatados();
 
-        Produto monitor = new Produto("Monitor LED 27", 1250.758, 10);
-        System.out.println("\nOutro Produto");
+        Product monitor = new Product("Monitor LED 27", 1250.758, 10);
+        System.out.println("\nOutro Product");
         monitor.mostrarDadosFormatados();
     }
 }
