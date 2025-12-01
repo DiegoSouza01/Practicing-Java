@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/VariablesAndTypes/VariablesAndTypes.iml" filepath="$PROJECT_DIR$/VariablesAndTypes/VariablesAndTypes.iml" />
       <module fileurl="file://$PROJECT_DIR$/classes-attributes-and-methods/classes-attributes-and-methods.iml" filepath="$PROJECT_DIR$/classes-attributes-and-methods/classes-attributes-and-methods.iml" />
       <module fileurl="file://$PROJECT_DIR$/date-and-time/date-and-time.iml" filepath="$PROJECT_DIR$/date-and-time/date-and-time.iml" />
+      <module fileurl="file://$PROJECT_DIR$/encapsulation/encapsulation.iml" filepath="$PROJECT_DIR$/encapsulation/encapsulation.iml" />
     </modules>
   </component>
 </project>
