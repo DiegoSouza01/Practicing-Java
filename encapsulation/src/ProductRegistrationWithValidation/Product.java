@@ -32,7 +32,6 @@ public class Product {
         double precoInvalido = -59.90;
 
         System.out.println("Teste 1: Preço Negativo");
-        // Ao instanciar, a validação é chamada no construtor
         Product mouse = new Product(nomeExemplo, precoInvalido);
         mouse.exibirDados();
 
