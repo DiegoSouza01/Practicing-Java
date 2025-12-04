@@ -9,7 +9,6 @@ public class Media {
         this.ano = ano;
     }
 
-    // Método auxiliar para gerar o código solicitado
     public String gerarCodigo() {
         String prefixo = titulo.length() >= 3 ? titulo.substring(0, 3) : titulo;
         return "LIB-" + prefixo + ano;
