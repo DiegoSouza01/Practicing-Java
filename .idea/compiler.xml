@@ -10,7 +10,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="date-and-time" target="17" />
-      <module name="untitled" target="17" />
+      <module name="String-and-Regex" target="17" />
     </bytecodeTargetLevel>
   </component>
 </project>
