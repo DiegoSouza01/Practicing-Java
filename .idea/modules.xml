@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Collections-and-Streams/Collections-and-Streams.iml" filepath="$PROJECT_DIR$/Collections-and-Streams/Collections-and-Streams.iml" />
       <module fileurl="file://$PROJECT_DIR$/If-and-else-conditionals/If-and-else-conditionals.iml" filepath="$PROJECT_DIR$/If-and-else-conditionals/If-and-else-conditionals.iml" />
       <module fileurl="file://$PROJECT_DIR$/Loops-for-and-while/Loops-for-and-while.iml" filepath="$PROJECT_DIR$/Loops-for-and-while/Loops-for-and-while.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Praticando Java variáveis e tipos.iml" filepath="$PROJECT_DIR$/.idea/Praticando Java variáveis e tipos.iml" />
